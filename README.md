@@ -11,7 +11,7 @@ The prompt is actually **multi-line**. I use decided to use *three* lines - one 
 	- is a newline, added for readability. It really helps discern commands from one another, and any output.
 2. The second line
 	- tells Hostname (for networking purposes), in cyan.
-	- gives the pwd \(**P**resent **W**orking **D**irectory\) in gold.
+	- gives the pwd (present working directory) in gold.
 	- tells whether or not your pwd is a Git repo, what branch you are in if so, and tells you the statuswith color cues. Red is dirty, green is clean. A white "Not in Git" message is the default placeholder.
 	- has a graphical battery indicator, courtesy of _x_'s batcharge.py
 3. The third line
