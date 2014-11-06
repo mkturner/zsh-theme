@@ -11,7 +11,7 @@ The prompt is actually **multi-line**. I use decided to use *three* lines - one 
 	- is a newline, added for readability. It really helps discern commands from one another, and any output.
 2. The second line
 	- tells Hostname (for networking purposes), in cyan.
-	- gives the pwd (**P**resent **W**orking **D**irectory) in gold.
+	- gives the pwd \(**P**resent **W**orking **D**irectory\) in gold.
 	- tells whether or not your pwd is a Git repo, what branch you are in if so, and tells you the statuswith color cues. Red is dirty, green is clean. A white "Not in Git" message is the default placeholder.
 	- has a graphical battery indicator, courtesy of _x_'s batcharge.py
 3. The third line
@@ -27,8 +27,8 @@ The prompt is actually **multi-line**. I use decided to use *three* lines - one 
 ### Disclaimer
 The posting of my zsh-theme configuration is hosted here on GitHub *for sharing purposes **only***. 
 
-With that sad, This release is provided as-is, without any guarantee of support, or liability in the event of damage to your computer. Please be aware that if you install this you are acknowledging that you have considered these consequences.
+It must be known that this release is provided as-is, without any guarantee of support, or liability in the event of damage to your computer. Please be aware that if you install this you are acknowledging that you have considered these consequences.
 
-With that said, I am open to friendly questions and comments. I hope to inspire others to explore and tinker with their chosen login shell, be it zsh, ksh, bash, etc.
+With that said, I am open to friendly questions and comments. I hope to inspire others to embrace the terminal and explore/tinker with their chosen login shell, be it zsh, ksh, bash, etc.
 
 **\*The included batcharge.py only works on Mac OS X computers**
